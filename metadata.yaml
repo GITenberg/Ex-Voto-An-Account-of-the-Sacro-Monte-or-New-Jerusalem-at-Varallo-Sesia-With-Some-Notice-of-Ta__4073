@@ -1,0 +1,29 @@
+_repo: Ex-Voto-An-Account-of-the-Sacro-Monte-or-New-Jerusalem-at-Varallo-Sesia-With-Some-Notice-of-Ta__4073
+creator:
+  author:
+    agent_name: Butler, Samuel
+    alias: Cellarius
+    birthdate: 1835
+    deathdate: 1902
+    gutenberg_agent_id: '748'
+    url: http://www.gutenberg.org/2009/agents/748
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Butler_(1835-1902)
+description: This 1888 volume showcased Butler's encyclopedic knowledge of the art
+  of Northern Italy and helped acquaint a wide English readership with the art of
+  Tabachetti and Gaudenzio Ferrari at Varallo.
+gutenberg_issued: '2003-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4073'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Art -- Italy -- Varallo-Sesia'
+- !lcc 'N'
+- !lcsh 'Tabaguet, Jean Baptiste, fl. 1590'
+- !lcsh 'Sacro Monte di Varallo (Sanctuary)'
+title: "Ex Voto: An Account of the Sacro Monte or New Jerusalem at Varallo-Sesia\r\
+  \nWith Some Notice of Tabachetti's Remaining Work at the Sanctuary of Crea"
+url: http://www.gutenberg.org/ebooks/4073
