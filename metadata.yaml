@@ -1,5 +1,8 @@
 _repo: Ex-Voto-An-Account-of-the-Sacro-Monte-or-New-Jerusalem-at-Varallo-Sesia-With-Some-Notice-of-Ta__4073
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 4073-h/images/coverb.jpg
 creator:
   author:
     agent_name: Butler, Samuel
@@ -12,6 +15,8 @@ creator:
 description: This 1888 volume showcased Butler's encyclopedic knowledge of the art
   of Northern Italy and helped acquaint a wide English readership with the art of
   Tabachetti and Gaudenzio Ferrari at Varallo.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4073#Ex-Voto-An-Account-of-the-Sacro-Monte-or-New-Jerusalem-at-Varallo-Sesia-With-Some-Notice-of-Ta_
 gutenberg_issued: '2003-05-01'
 gutenberg_type: Text
 identifiers:
