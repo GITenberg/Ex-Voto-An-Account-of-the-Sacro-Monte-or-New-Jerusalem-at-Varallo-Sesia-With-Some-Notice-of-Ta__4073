@@ -1,5 +1,5 @@
 _repo: Ex-Voto-An-Account-of-the-Sacro-Monte-or-New-Jerusalem-at-Varallo-Sesia-With-Some-Notice-of-Ta__4073
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: archival
   image_path: 4073-h/images/coverb.jpg
@@ -30,6 +30,7 @@ subjects:
 - !lcc 'N'
 - !lcsh 'Tabaguet, Jean Baptiste, fl. 1590'
 - !lcsh 'Sacro Monte di Varallo (Sanctuary)'
+- GITenberg
 title: "Ex Voto: An Account of the Sacro Monte or New Jerusalem at Varallo-Sesia\r\
   \nWith Some Notice of Tabachetti's Remaining Work at the Sanctuary of Crea"
 url: http://www.gutenberg.org/ebooks/4073
